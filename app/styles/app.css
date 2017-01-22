@@ -1,0 +1,9 @@
+.editor-body {
+  border: 1px solid black;
+  height: 50px;
+  cursor: text;
+}
+
+*:focus {
+  outline: none;
+};
